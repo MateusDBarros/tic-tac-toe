@@ -13,17 +13,17 @@ Este projeto implementa um jogo da velha (tic-tac-toe) em linguagem C, permitind
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/MateusDBarros/jogo-da-velha.git
+    git clone https://github.com/MateusDBarros/tic-tac-toe.git
     ```
 2. Abra o projeto em sua IDE preferida. Certifique-se de que todos os arquivos necessários estejam na mesma pasta.
 
 3. Compile o código:
     ```bash
-    gcc -o jogo-da-velha main.c
+    gcc -o tic-tac-toe.c
     ```
 4. Execute o programa:
     ```bash
-    ./jogo-da-velha
+    ./tic-tac-toe
     ```
 
 ## Estrutura do Projeto
