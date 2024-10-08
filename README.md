@@ -39,4 +39,25 @@ Este projeto implementa um jogo da velha (tic-tac-toe) em linguagem C, permitind
 
 ## Exemplo de Uso
 
-Ao executar o programa, será apresentada a seguinte interface de menu:
+O jogador deve inserir as coordenadas da linha e coluna onde deseja jogar, e o computador fará uma jogada em seguida. O tabuleiro será atualizado após cada jogada.
+
+### Adicionar uma Jogada
+
+O usuário será solicitado a inserir a linha e a coluna onde deseja jogar.
+
+### Verificação de Vitória
+
+O jogo verificará automaticamente se há um vencedor após cada jogada.
+
+### Verificação de Empate
+
+Se todas as posições estiverem preenchidas e não houver vencedor, o jogo será declarado empatado.
+
+## Contribuindo
+
+Se você quiser contribuir com este projeto, sinta-se à vontade para abrir pull requests e issues. Toda ajuda é bem-vinda!
+
+
+## Contato
+
+Para mais informações, entre em contato via [mb685212@gmail.com](mailto:mb685212@gmai.com).
