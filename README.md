@@ -60,4 +60,4 @@ Se você quiser contribuir com este projeto, sinta-se à vontade para abrir pull
 
 ## Contato
 
-Para mais informações, entre em contato via [mb685212@gmail.com](mailto:mb685212@gmai.com).
+Para mais informações, entre em contato via [mb685212@gmail.com](mailto:mb685212@gmail.com) ou [linkedin](https://linkedin.com/in/mateus-barros13)
