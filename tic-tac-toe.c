@@ -1,5 +1,7 @@
 #include <time.h>
-
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 // Função que exibe o tabuleiro no console
 void mostrarTabuleiro(char tabuleiro[3][3]);
 
@@ -33,6 +35,7 @@ int main(void){
     while (vencedor(tabuleiro, 'X', 'O') == 1 || empate(tabuleiro) == 0) {
         // Mostra o tabuleiro atual
         mostrarTabuleiro(tabuleiro);
+        printf("\n");
 
         // Alterna entre o jogador humano e o computador
         if (turno == 1) {
@@ -49,6 +52,8 @@ int main(void){
     
     // Mostra o tabuleiro final
     mostrarTabuleiro(tabuleiro);
+    printf("\n");
+
     return 0;
 }
 
