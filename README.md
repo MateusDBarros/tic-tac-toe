@@ -53,11 +53,6 @@ O jogo verificará automaticamente se há um vencedor após cada jogada.
 
 Se todas as posições estiverem preenchidas e não houver vencedor, o jogo será declarado empatado.
 
-## Contribuindo
-
-Se você quiser contribuir com este projeto, sinta-se à vontade para abrir pull requests e issues. Toda ajuda é bem-vinda!
-
-
 ## Contato
 
 Para mais informações, entre em contato via [mb685212@gmail.com](mailto:mb685212@gmail.com) ou [linkedin](https://linkedin.com/in/mateus-barros13)
